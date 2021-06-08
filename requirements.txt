@@ -75,7 +75,7 @@ patsy==0.5.0
 pexpect==4.3.1
 phonetics==1.0.4
 pickleshare==0.7.4
-Pillow==8.1.1
+Pillow==8.2.0
 plac==0.9.6
 plotly==2.5.0
 preshed==1.0.0
